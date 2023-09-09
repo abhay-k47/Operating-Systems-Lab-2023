@@ -8,11 +8,11 @@ The purpose of this project is to implement an application program that will run
 - Background execution of commands
 - Piping between commands
 - Interrupting running commands by pressing `Ctrl-C` and `Ctrl-Z`
-- Handling wildcards in commands (‘\*’ and ‘?’)
+- Handling wildcards in commands (`*` and `?`)
 - Searching through history using up/downarrow keys
 - `sb` command to detect a simple malware
 - `flock` command to check for file locks
-- editing commands using `Ctrl+A` and `Ctrl+E
+- editing commands using `Ctrl+A` and `Ctrl+E`
 
 ## Build and Installation
 
