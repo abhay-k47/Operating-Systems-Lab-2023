@@ -1,6 +1,7 @@
 #include "./history.hpp"
 #include <stdlib.h>
 #include <unistd.h>
+#include <errno.h>
 using namespace std;
 
 History::History()
@@ -11,7 +12,7 @@ History::History()
   if (home != nullptr)
   {
     ifstream file(string(home) + "/.taajsh_history");
-    if (!file.is_open())
+    if (!file.is_open() && errno != ENOENT)
     {
       perror("can't open history file");
     }
