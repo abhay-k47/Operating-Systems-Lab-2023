@@ -20,5 +20,5 @@ The purpose of this project is to implement an application program that will run
 - `cd` into the directory `Assignment-2/TAAJsh`
 - Add execute permissions to `build.sh` by running `chmod +x build.sh`
 - Run `./build.sh` to build and install the shell
-- For clean build files, run `./build.sh clean`
+- To clean build files, run `./build.sh clean`
 - To build in debug mode, run `./build.sh --trace`
