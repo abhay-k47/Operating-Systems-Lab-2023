@@ -1,5 +1,5 @@
-#include "./flock.hpp"
-#include "./utils.hpp"
+#include "flock.hpp"
+#include "utils.hpp"
 #include <dirent.h>
 #include <fstream>
 #include <signal.h>

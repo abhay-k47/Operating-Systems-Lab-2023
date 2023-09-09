@@ -1,5 +1,5 @@
-#include "./command.hpp"
-#include "./utils.hpp"
+#include "command.hpp"
+#include "utils.hpp"
 
 #include <fcntl.h>
 #include <unistd.h>

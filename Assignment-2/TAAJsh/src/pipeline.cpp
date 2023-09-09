@@ -1,6 +1,6 @@
-#include "./pipeline.hpp"
-#include "./signal_handler.hpp"
-#include "./utils.hpp"
+#include "pipeline.hpp"
+#include "signal_handler.hpp"
+#include "utils.hpp"
 #include <sys/wait.h>
 using namespace std;
 

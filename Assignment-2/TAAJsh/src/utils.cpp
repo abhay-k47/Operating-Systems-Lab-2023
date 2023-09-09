@@ -1,4 +1,4 @@
-#include "./utils.hpp"
+#include "utils.hpp"
 #include <glob.h>
 #include <sstream>
 #include <unistd.h>

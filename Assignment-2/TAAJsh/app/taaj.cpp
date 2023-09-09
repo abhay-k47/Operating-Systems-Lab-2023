@@ -1,9 +1,9 @@
-#include "./flock.hpp"
-#include "./history.hpp"
-#include "./malware_detection.hpp"
-#include "./pipeline.hpp"
-#include "./signal_handler.hpp"
-#include "./utils.hpp"
+#include "flock.hpp"
+#include "history.hpp"
+#include "malware_detection.hpp"
+#include "pipeline.hpp"
+#include "signal_handler.hpp"
+#include "utils.hpp"
 #include <iostream>
 #include <signal.h>
 #include <unistd.h>

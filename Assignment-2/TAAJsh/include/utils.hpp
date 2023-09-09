@@ -1,6 +1,6 @@
 #ifndef UTILS_HPP
 #define UTILS_HPP
-#include "./history.hpp"
+#include "history.hpp"
 #include <iostream>
 #include <readline/readline.h>
 #include <vector>

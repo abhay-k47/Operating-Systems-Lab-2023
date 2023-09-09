@@ -1,7 +1,7 @@
 #ifndef SIGNAL_HANDLER_HPP
 #define SIGNAL_HANDLER_HPP
 
-#include "./pipeline.hpp"
+#include "pipeline.hpp"
 #include <map>
 #include <sys/types.h>
 #include <vector>

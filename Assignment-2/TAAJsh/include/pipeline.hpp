@@ -1,6 +1,6 @@
 #ifndef PIPELINE_HPP
 #define PIPELINE_HPP
-#include "./command.hpp"
+#include "command.hpp"
 #include <iostream>
 #include <string>
 #include <vector>

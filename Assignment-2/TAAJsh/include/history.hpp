@@ -4,7 +4,6 @@
 #include <fstream>
 #include <iostream>
 #define CACHE_SIZE 1000
-#define HISTORY_CACHE ".taajshcache"
 
 enum DIREC
 {

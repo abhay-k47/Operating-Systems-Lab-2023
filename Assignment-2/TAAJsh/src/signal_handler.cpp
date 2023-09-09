@@ -1,4 +1,4 @@
-#include "./signal_handler.hpp"
+#include "signal_handler.hpp"
 #include <readline/readline.h>
 #include <signal.h>
 #include <sys/wait.h>

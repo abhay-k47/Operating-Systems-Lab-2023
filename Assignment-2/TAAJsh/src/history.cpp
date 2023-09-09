@@ -1,4 +1,4 @@
-#include "./history.hpp"
+#include "history.hpp"
 #include <stdlib.h>
 #include <unistd.h>
 #include <errno.h>
